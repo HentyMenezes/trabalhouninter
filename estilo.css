@@ -1,0 +1,11 @@
+<style>
+        body{background-color:#fdee9a;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+        h1{background-color: #c47f32;text-align: center}
+        p{font-size: 20px; text-align: justify;}
+        ul li{padding: 5px;}
+        .imgvolei {border-radius: 10px;}
+        table{width:fit-content; border-collapse:collapse}
+        tr, td{border: 3px solid #555; padding: 1px; text-align: left;font-weight: bold}
+        h2{text-align:left}
+        a:hover{color: #c47f32;}
+</style>
